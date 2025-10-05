@@ -66,4 +66,4 @@ custom_parsers/icici_parser.py
 
 Agent Architecture Diagram
 
-![ICICI Parser Agent Architecture](pdf_parser/architecture.png)
+![Parser Agent Architecture](architecture.png)
