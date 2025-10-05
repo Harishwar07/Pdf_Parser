@@ -1,0 +1,7 @@
+pandas
+pdfplumber
+tabula-py
+camelot-py[cv]
+pytest
+google-generativeai
+PyPDF2
