@@ -1,4 +1,4 @@
-ICICI Bank Statement Parser Agent
+Bank Statement Parser Agent
 
 Overview
 
